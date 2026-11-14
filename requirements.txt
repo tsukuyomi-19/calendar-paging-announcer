@@ -1,0 +1,9 @@
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2 # Often a dependency, good to list
+selenium
+webdriver-manager
+requests
+Flask
+zoneinfo; python_version >= "3.9" # zoneinfo is standard in 3.9+
+pytz; python_version < "3.9"     # Fallback for older Python if needed

@@ -1,0 +1,8 @@
+.env
+credentials.json
+token.pickle
+event_cache.json
+service_status.json
+*.log
+*.mp3
+__pycache__/
